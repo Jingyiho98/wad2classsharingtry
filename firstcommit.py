@@ -4,6 +4,5 @@ print("new change")
 
 print("hello")
 
-print("hello2")
 
-print('sean hello')
+print("sean's changes here")
