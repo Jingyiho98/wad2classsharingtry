@@ -2,4 +2,4 @@ print("first commit")
 
 print("new change")
 
-print("jingyi trying to conflict")
+print("hello")
